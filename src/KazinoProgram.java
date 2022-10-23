@@ -6,7 +6,8 @@ public class KazinoProgram {
                         new Kladionicar("Pera", "poker", 15000),
                         new Kladionicar("Zika", "ajnc", 17000),
                         new Kladionicar("Mika", "rulet", -1500),
-                        new Kladionicar("Bora", "poker", 22000)}
+                        new Kladionicar("Bora", "poker", 22000),
+                        new Kladionicar("Mirko", "ajnc", 15000)}
         );
         System.out.println(kazino);
         System.out.println("Najprofitabilnija igra trenutno je " +
